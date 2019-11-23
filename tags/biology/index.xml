@@ -5,12 +5,20 @@
     <link>https://www.jacobpeacock.com/tags/biology/</link>
       <atom:link href="https://www.jacobpeacock.com/tags/biology/index.xml" rel="self" type="application/rss+xml" />
     <description>Biology</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 21 Apr 2014 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Nov 2017 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.jacobpeacock.com/img/icon-192.png</url>
       <title>Biology</title>
       <link>https://www.jacobpeacock.com/tags/biology/</link>
     </image>
+    
+    <item>
+      <title>Using Competition Assays to Quantitatively Model Cooperative Binding by Transcription Factors and Other Ligands</title>
+      <link>https://www.jacobpeacock.com/publication/competition-assays-model-cooperative-binding/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.jacobpeacock.com/publication/competition-assays-model-cooperative-binding/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Amino Acid-Dependent Stabiliy of the Acyl Linkage in aminoacyl-tRNA</title>
