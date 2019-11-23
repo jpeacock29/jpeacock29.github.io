@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>4 | Jacob Peacock</title>
+    <link>https://www.jacobpeacock.com/publication_types/4/</link>
+      <atom:link href="https://www.jacobpeacock.com/publication_types/4/index.xml" rel="self" type="application/rss+xml" />
+    <description>4</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 20 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.jacobpeacock.com/img/icon-192.png</url>
+      <title>4</title>
+      <link>https://www.jacobpeacock.com/publication_types/4/</link>
+    </image>
+    
+    <item>
+      <title>Surveying US College and University Dining Services for Potential Collaboration on Diet Change Research 2017–2018</title>
+      <link>https://www.jacobpeacock.com/publication/e013r01-surveying-dining-services-2017-2018/</link>
+      <pubDate>Wed, 20 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.jacobpeacock.com/publication/e013r01-surveying-dining-services-2017-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Validation of the Visionmaker NYC Hydrological Model</title>
+      <link>https://www.jacobpeacock.com/publication/validation-of-the-visionmaker-nyc-hydrological-model/</link>
+      <pubDate>Fri, 07 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.jacobpeacock.com/publication/validation-of-the-visionmaker-nyc-hydrological-model/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

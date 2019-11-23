@@ -5,12 +5,44 @@
     <link>https://www.jacobpeacock.com/tags/</link>
       <atom:link href="https://www.jacobpeacock.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 20 Feb 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.jacobpeacock.com/img/icon-192.png</url>
       <title>Tags</title>
       <link>https://www.jacobpeacock.com/tags/</link>
     </image>
+    
+    <item>
+      <title>Animal advocacy</title>
+      <link>https://www.jacobpeacock.com/tags/animal-advocacy/</link>
+      <pubDate>Wed, 20 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.jacobpeacock.com/tags/animal-advocacy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environmental science</title>
+      <link>https://www.jacobpeacock.com/tags/environmental-science/</link>
+      <pubDate>Fri, 07 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.jacobpeacock.com/tags/environmental-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine learning</title>
+      <link>https://www.jacobpeacock.com/tags/machine-learning/</link>
+      <pubDate>Fri, 07 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.jacobpeacock.com/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biology</title>
+      <link>https://www.jacobpeacock.com/tags/biology/</link>
+      <pubDate>Mon, 21 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>https://www.jacobpeacock.com/tags/biology/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

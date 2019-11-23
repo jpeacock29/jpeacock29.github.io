@@ -5,12 +5,36 @@
     <link>https://www.jacobpeacock.com/publication/</link>
       <atom:link href="https://www.jacobpeacock.com/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 20 Feb 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.jacobpeacock.com/img/icon-192.png</url>
       <title>Publications</title>
       <link>https://www.jacobpeacock.com/publication/</link>
     </image>
+    
+    <item>
+      <title>Surveying US College and University Dining Services for Potential Collaboration on Diet Change Research 2017–2018</title>
+      <link>https://www.jacobpeacock.com/publication/e013r01-surveying-dining-services-2017-2018/</link>
+      <pubDate>Wed, 20 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.jacobpeacock.com/publication/e013r01-surveying-dining-services-2017-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Validation of the Visionmaker NYC Hydrological Model</title>
+      <link>https://www.jacobpeacock.com/publication/validation-of-the-visionmaker-nyc-hydrological-model/</link>
+      <pubDate>Fri, 07 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.jacobpeacock.com/publication/validation-of-the-visionmaker-nyc-hydrological-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Amino Acid-Dependent Stabiliy of the Acyl Linkage in aminoacyl-tRNA</title>
+      <link>https://www.jacobpeacock.com/publication/amino-acid-dependent-stability-of-aa-trna/</link>
+      <pubDate>Mon, 21 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>https://www.jacobpeacock.com/publication/amino-acid-dependent-stability-of-aa-trna/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
