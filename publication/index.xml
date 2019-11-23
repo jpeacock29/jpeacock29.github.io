@@ -5,12 +5,20 @@
     <link>https://www.jacobpeacock.com/publication/</link>
       <atom:link href="https://www.jacobpeacock.com/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 20 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 16 Jul 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.jacobpeacock.com/img/icon-192.png</url>
       <title>Publications</title>
       <link>https://www.jacobpeacock.com/publication/</link>
     </image>
+    
+    <item>
+      <title>Reducing Meat Consumption by Appealing to Animal Welfare: Protocol for a Meta-Analysis and Theoretical Review</title>
+      <link>https://www.jacobpeacock.com/publication/reducing-meat-consumption-animal-welfare-review-meta-analysis-protocol/</link>
+      <pubDate>Tue, 16 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.jacobpeacock.com/publication/reducing-meat-consumption-animal-welfare-review-meta-analysis-protocol/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Surveying US College and University Dining Services for Potential Collaboration on Diet Change Research 2017–2018</title>
