@@ -3,39 +3,39 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/authors/admin/</loc>
+    <loc>https://www.jacobpeacock.com/authors/admin/</loc>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>https://www.jacobpeacock.com/authors/</loc>
   </url>
   
   <url>
-    <loc>/authors/</loc>
+    <loc>https://www.jacobpeacock.com/categories/</loc>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://www.jacobpeacock.com/</loc>
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>https://www.jacobpeacock.com/post/</loc>
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
+    <loc>https://www.jacobpeacock.com/publication_types/</loc>
   </url>
   
   <url>
-    <loc>/publication/</loc>
+    <loc>https://www.jacobpeacock.com/publication/</loc>
   </url>
   
   <url>
-    <loc>/talk/</loc>
+    <loc>https://www.jacobpeacock.com/talk/</loc>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://www.jacobpeacock.com/tags/</loc>
   </url>
   
 </urlset>
