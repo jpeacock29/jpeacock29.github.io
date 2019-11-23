@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andrey Grigoriev | Jacob Peacock</title>
+    <link>https://www.jacobpeacock.com/authors/andrey-grigoriev/</link>
+      <atom:link href="https://www.jacobpeacock.com/authors/andrey-grigoriev/index.xml" rel="self" type="application/rss+xml" />
+    <description>Andrey Grigoriev</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 19 Dec 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.jacobpeacock.com/img/icon-192.png</url>
+      <title>Andrey Grigoriev</title>
+      <link>https://www.jacobpeacock.com/authors/andrey-grigoriev/</link>
+    </image>
+    
+    <item>
+      <title>Bioinformatic Description of tRNA Fragments and their Targets in Human AGO2</title>
+      <link>https://www.jacobpeacock.com/publication/bioinformatic-description-trna-fragments-targets-human-ago2/</link>
+      <pubDate>Mon, 19 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://www.jacobpeacock.com/publication/bioinformatic-description-trna-fragments-targets-human-ago2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
