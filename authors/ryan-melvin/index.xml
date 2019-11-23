@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ryan Melvin | Jacob Peacock</title>
+    <link>https://www.jacobpeacock.com/authors/ryan-melvin/</link>
+      <atom:link href="https://www.jacobpeacock.com/authors/ryan-melvin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ryan Melvin</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 04 May 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.jacobpeacock.com/img/icon-192.png</url>
+      <title>Ryan Melvin</title>
+      <link>https://www.jacobpeacock.com/authors/ryan-melvin/</link>
+    </image>
+    
+    <item>
+      <title>Which Farm Animal Photos are Most Likely to Inspire People to Eat Vegan: A Reanalysis</title>
+      <link>https://www.jacobpeacock.com/publication/e005r06-farm-animal-photos/</link>
+      <pubDate>Fri, 04 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.jacobpeacock.com/publication/e005r06-farm-animal-photos/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
