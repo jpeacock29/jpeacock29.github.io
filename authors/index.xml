@@ -5,7 +5,7 @@
     <link>https://www.jacobpeacock.com/authors/</link>
       <atom:link href="https://www.jacobpeacock.com/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 20 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 16 Jul 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.jacobpeacock.com/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,8 +15,56 @@
     <item>
       <title></title>
       <link>https://www.jacobpeacock.com/authors/admin/</link>
-      <pubDate>Wed, 20 Feb 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 16 Jul 2019 00:00:00 +0000</pubDate>
       <guid>https://www.jacobpeacock.com/authors/admin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Christopher D. Gardner</title>
+      <link>https://www.jacobpeacock.com/authors/christopher-d.-gardner/</link>
+      <pubDate>Tue, 16 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.jacobpeacock.com/authors/christopher-d.-gardner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>David B. Reichling</title>
+      <link>https://www.jacobpeacock.com/authors/david-b.-reichling/</link>
+      <pubDate>Tue, 16 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.jacobpeacock.com/authors/david-b.-reichling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Janice Nadler</title>
+      <link>https://www.jacobpeacock.com/authors/janice-nadler/</link>
+      <pubDate>Tue, 16 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.jacobpeacock.com/authors/janice-nadler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maya B. Mathur</title>
+      <link>https://www.jacobpeacock.com/authors/maya-b.-mathur/</link>
+      <pubDate>Tue, 16 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.jacobpeacock.com/authors/maya-b.-mathur/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paul A. Bain</title>
+      <link>https://www.jacobpeacock.com/authors/paul-a.-bain/</link>
+      <pubDate>Tue, 16 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.jacobpeacock.com/authors/paul-a.-bain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thomas N. Robinson</title>
+      <link>https://www.jacobpeacock.com/authors/thomas-n.-robinson/</link>
+      <pubDate>Tue, 16 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.jacobpeacock.com/authors/thomas-n.-robinson/</guid>
       <description></description>
     </item>
     
