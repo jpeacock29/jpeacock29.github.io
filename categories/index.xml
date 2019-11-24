@@ -5,7 +5,7 @@
     <link>https://www.jacobpeacock.com/categories/</link>
       <atom:link href="https://www.jacobpeacock.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Except where otherwise specified, this site is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).</copyright>
     <image>
       <url>https://www.jacobpeacock.com/img/icon-192.png</url>
       <title>Categories</title>
