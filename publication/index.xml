@@ -5,7 +5,7 @@
     <link>https://www.jacobpeacock.com/publication/</link>
       <atom:link href="https://www.jacobpeacock.com/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Except where otherwise specified, this site is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).</copyright><lastBuildDate>Tue, 16 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Except where otherwise specified, this site is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).</copyright><lastBuildDate>Thu, 30 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.jacobpeacock.com/images/logo_hu49cd60d6ea8d6b9a9734cd8babe3b0bd_11118_300x300_fit_lanczos_2.png</url>
       <title>Publications</title>
@@ -13,9 +13,17 @@
     </image>
     
     <item>
-      <title>Reducing Meat Consumption by Appealing to Animal Welfare: Protocol for a Meta-Analysis and Theoretical Review</title>
+      <title>Impact of corporate commitments to source cage-free eggs on layer hen housing: Preregistration for an observational study</title>
+      <link>https://www.jacobpeacock.com/publication/relationship-commitments-production-preregistration/</link>
+      <pubDate>Thu, 30 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.jacobpeacock.com/publication/relationship-commitments-production-preregistration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reducing meat consumption by appealing to animal welfare: protocol for a meta-analysis and theoretical review</title>
       <link>https://www.jacobpeacock.com/publication/reducing-meat-consumption-animal-welfare-review-meta-analysis-protocol/</link>
-      <pubDate>Tue, 16 Jul 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://www.jacobpeacock.com/publication/reducing-meat-consumption-animal-welfare-review-meta-analysis-protocol/</guid>
       <description></description>
     </item>
